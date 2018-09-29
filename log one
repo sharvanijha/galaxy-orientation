@@ -1,0 +1,21 @@
+log one
+09.29.18
+12:31 am
+
+I want to retrace my steps and become familiar with how to calculate the dark matter content of a galaxy (again). This will help me think through what I'll need to code in my program as well as assumptions I'll need to systematically challenge.
+
+Step one: rotational velocity. I need this value to ultimately calculate the galaxy's dynamical mass, according to my original project. So, using google, I've landed on this website: https://dept.astro.lsa.umich.edu/resources/ugactivities/Labs/tully_fisher/tf_intro.html.
+
+Interesting fact I never knew: there's a correlation between how fast a spiral galaxy spins, and how bright it is - this is called the Tully-Fisher Relation! That sounds fascinating, and while I do have a guess as to why this is the case I'd love to read more about the physics of this phenomenon later. It seems to be pretty impactful, according to this webpage - "By comparing your spiral galaxies to our next-door neighbor spiral galaxy (the Andromeda galaxy), you'll be able to figure out how far away they are, and measure the Hubble constant and the age of the Universe!"
+
+According to this site, I'll need the rotation curves of the galaxies. I need to refresh myself on what exactly this means and how it relates (if at all) to the 2-D spectra I used in my original probject. I will also need to remember how to use SAOImage DS9 again. According to this website, I'll need to look at the observed redshift for the "H-alpha line at various positions along the disk of each galaxy". I think it'd be worthwhile to look into how this data is gathered, why this data gives me the information I need, and why this is the best method to use (at self: do this later!!!).
+
+Good thing to know (and fact-check): H-alpha normally has a wavelength of 656.3 nm!
+
+The wavelength of one side of the galaxy (for H-alpha, I presume) will be greater than the other side - this is the wavelength of the redshifted side that's moving away from us. (Note to self, in case I mess it up later: blueshift is moving closer. Redshift is moving farther away. You got this information from wikipedia, so check that it's true from somewhere a little more credible just to be 100% sure.) This fact's most rational explanation is that the galaxy's spinning! Good stuff.
+
+Using the redshift and blueshift values at the edge of the galaxy, in my original project we used these to calculate rotational velocity. However, on this webpage they are calculating the recessional velocity instead. I'll need to look into how these two compare when it comes to what they can tell me. I'll also need to check whether these equations assume the entity is circular or not - since we're most likely dealing with spiral galaxies (question: do all galaxies spin?) those are ellipses and not circles.
+
+I need to sleep because I have things to do tomorrow but I'll continue when I can. Good night, and to NGC 6946: I love you.
+
+12:48 am.
